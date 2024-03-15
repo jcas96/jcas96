@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcas96
-- 👀 I’m interested in ... Programming websites, applications, software of all kinds. I'm also a big sports fan of any kind,
-- and being able to track sports stats through programming would be a fun project for myself
+- 👀 I’m interested in ... Programming websites, applications, software of all kinds. I'm also a big gym and sports fan of any kind,
+- and being able to track sports stats through programming or even tracking daily calories would be a fun project for myself
 - 
 - 🌱 I’m currently learning ... The multitude of Java data structures and how to create applications using JAVA FX STUDIO
 - 
