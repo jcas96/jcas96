@@ -6,7 +6,7 @@
 - 
 - I’m looking to collaborate on ... Research Projects as well as programming applications
 - How to reach me joelcastro.jsc@gmail.com
-- Fun fact: I played Soccer and Baseball since I was 5.
+- Fun fact: I've played Soccer and Baseball since I was 5.
 
 <!---
 jcas96/jcas96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
