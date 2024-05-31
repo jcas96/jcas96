@@ -5,7 +5,7 @@
 -  I’m currently learning ... The multitude of Java data structures and how to create websites and applications
 - 
 - I’m looking to collaborate on ... Research Projects as well as programming applications
-- How to reach me ...joelcastro.jsc@gmail.com
+- How to reach me joelcastro.jsc@gmail.com
 - Fun fact: I played Soccer and Baseball since I was 5.
 
 <!---
