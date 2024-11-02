@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jcas96
-- I’m Big on Programming websites, applications, software of all kinds. I'm also a big gym and sports fan of any kind,
-- thus being able to track sports stats through programming or even tracking daily calories would be a fun project for myself
-- 
-- How to reach me joelcastro.jsc@gmail.com
+- 👋 Hi, I’m Joel Castro
+- I’m Big on Programming websites, applications, and    - software of all sorts. I'm also a big sports fan thus 
+- being able to track sports stats through programming  - and tracking daily calories are personal projects I'm - working on
+- 💼 Open to collaboration on **web development         - projects**  
+- 📫 Reach me at [joelcastro.jsc@gmail.com]  
 - Fun fact: I've played Soccer and Baseball since I was 5.
 
 <!---
